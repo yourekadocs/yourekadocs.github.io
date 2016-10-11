@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7-archives on Youreka Docs</title>
-    <link>http://replace-this-with-your-hugo-site.com/7-archive/</link>
+    <link>https://yourekadocs.github.io/7-archive/</link>
     <description>Recent content in 7-archives on Youreka Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2016 09:44:52 -0400</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/7-archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yourekadocs.github.io/7-archive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Archiving &amp; Unarchiving Forms</title>
-      <link>http://replace-this-with-your-hugo-site.com/7-archive/</link>
+      <link>https://yourekadocs.github.io/7-archive/</link>
       <pubDate>Tue, 11 Oct 2016 09:44:52 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/7-archive/</guid>
+      <guid>https://yourekadocs.github.io/7-archive/</guid>
       <description>
 
 &lt;h2 id=&#34;archiving-a-form&#34;&gt;Archiving A Form&lt;/h2&gt;

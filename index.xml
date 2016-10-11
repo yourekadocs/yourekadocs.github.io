@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youreka Docs</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://yourekadocs.github.io/</link>
     <description>Recent content on Youreka Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2016 09:53:16 -0400</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yourekadocs.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uninstall</title>
-      <link>http://replace-this-with-your-hugo-site.com/16-uninstall/</link>
+      <link>https://yourekadocs.github.io/16-uninstall/</link>
       <pubDate>Tue, 11 Oct 2016 09:53:16 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/16-uninstall/</guid>
+      <guid>https://yourekadocs.github.io/16-uninstall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightning Experience</title>
-      <link>http://replace-this-with-your-hugo-site.com/15-lightning/</link>
+      <link>https://yourekadocs.github.io/15-lightning/</link>
       <pubDate>Tue, 11 Oct 2016 09:52:50 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/15-lightning/</guid>
+      <guid>https://yourekadocs.github.io/15-lightning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reporting</title>
-      <link>http://replace-this-with-your-hugo-site.com/14-reporting/</link>
+      <link>https://yourekadocs.github.io/14-reporting/</link>
       <pubDate>Tue, 11 Oct 2016 09:52:16 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/14-reporting/</guid>
+      <guid>https://yourekadocs.github.io/14-reporting/</guid>
       <description>
 
 &lt;h2 id=&#34;creating-a-report-on-answers&#34;&gt;Creating A Report On Answers&lt;/h2&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Messages &amp; Warnings</title>
-      <link>http://replace-this-with-your-hugo-site.com/13-messages-warnings/</link>
+      <link>https://yourekadocs.github.io/13-messages-warnings/</link>
       <pubDate>Tue, 11 Oct 2016 09:51:37 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/13-messages-warnings/</guid>
+      <guid>https://yourekadocs.github.io/13-messages-warnings/</guid>
       <description>
 
 &lt;h2 id=&#34;premium-expiration&#34;&gt;Premium Expiration&lt;/h2&gt;
@@ -59,19 +59,19 @@
     
     <item>
       <title>Deleting Templates</title>
-      <link>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</link>
+      <link>https://yourekadocs.github.io/12-deleting-templates/</link>
       <pubDate>Tue, 11 Oct 2016 09:50:44 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</guid>
+      <guid>https://yourekadocs.github.io/12-deleting-templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Templates</title>
-      <link>http://replace-this-with-your-hugo-site.com/11-importing/</link>
+      <link>https://yourekadocs.github.io/11-importing/</link>
       <pubDate>Tue, 11 Oct 2016 09:49:57 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/11-importing/</guid>
+      <guid>https://yourekadocs.github.io/11-importing/</guid>
       <description>
 
 &lt;h2 id=&#34;form-template-import-tab&#34;&gt;Form Template Import Tab&lt;/h2&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>Exporting Templates</title>
-      <link>http://replace-this-with-your-hugo-site.com/10-exporting/</link>
+      <link>https://yourekadocs.github.io/10-exporting/</link>
       <pubDate>Tue, 11 Oct 2016 09:49:23 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/10-exporting/</guid>
+      <guid>https://yourekadocs.github.io/10-exporting/</guid>
       <description>
 
 &lt;h2 id=&#34;export&#34;&gt;Export&lt;/h2&gt;
@@ -100,28 +100,28 @@
     
     <item>
       <title>Copying Templates For New Versions</title>
-      <link>http://replace-this-with-your-hugo-site.com/9-copying-templates/</link>
+      <link>https://yourekadocs.github.io/9-copying-templates/</link>
       <pubDate>Tue, 11 Oct 2016 09:48:44 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/9-copying-templates/</guid>
+      <guid>https://yourekadocs.github.io/9-copying-templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://replace-this-with-your-hugo-site.com/8-deleting-forms/</link>
+      <link>https://yourekadocs.github.io/8-deleting-forms/</link>
       <pubDate>Tue, 11 Oct 2016 09:45:51 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/8-deleting-forms/</guid>
+      <guid>https://yourekadocs.github.io/8-deleting-forms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archiving &amp; Unarchiving Forms</title>
-      <link>http://replace-this-with-your-hugo-site.com/7-archive/</link>
+      <link>https://yourekadocs.github.io/7-archive/</link>
       <pubDate>Tue, 11 Oct 2016 09:44:52 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/7-archive/</guid>
+      <guid>https://yourekadocs.github.io/7-archive/</guid>
       <description>
 
 &lt;h2 id=&#34;archiving-a-form&#34;&gt;Archiving A Form&lt;/h2&gt;
@@ -132,10 +132,10 @@
     
     <item>
       <title>Permission Sets</title>
-      <link>http://replace-this-with-your-hugo-site.com/6-permission-sets/</link>
+      <link>https://yourekadocs.github.io/6-permission-sets/</link>
       <pubDate>Tue, 11 Oct 2016 09:37:22 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/6-permission-sets/</guid>
+      <guid>https://yourekadocs.github.io/6-permission-sets/</guid>
       <description>
 
 &lt;h2 id=&#34;youreka-admin&#34;&gt;Youreka Admin&lt;/h2&gt;
@@ -146,10 +146,10 @@
     
     <item>
       <title>Making Discoveries</title>
-      <link>http://replace-this-with-your-hugo-site.com/5-making-discoveries/</link>
+      <link>https://yourekadocs.github.io/5-making-discoveries/</link>
       <pubDate>Tue, 11 Oct 2016 09:36:37 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/5-making-discoveries/</guid>
+      <guid>https://yourekadocs.github.io/5-making-discoveries/</guid>
       <description>
 
 &lt;h2 id=&#34;lock&#34;&gt;Lock&lt;/h2&gt;
@@ -164,10 +164,10 @@
     
     <item>
       <title>Completing A Form</title>
-      <link>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</link>
+      <link>https://yourekadocs.github.io/4-completing-a-form/</link>
       <pubDate>Tue, 11 Oct 2016 09:36:26 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</guid>
+      <guid>https://yourekadocs.github.io/4-completing-a-form/</guid>
       <description>
 
 &lt;h2 id=&#34;detail&#34;&gt;Detail&lt;/h2&gt;
@@ -184,10 +184,10 @@
     
     <item>
       <title>Creating A Form</title>
-      <link>http://replace-this-with-your-hugo-site.com/3-creating-a-form/</link>
+      <link>https://yourekadocs.github.io/3-creating-a-form/</link>
       <pubDate>Tue, 11 Oct 2016 09:36:10 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/3-creating-a-form/</guid>
+      <guid>https://yourekadocs.github.io/3-creating-a-form/</guid>
       <description>
 
 &lt;h2 id=&#34;new-form-buttons&#34;&gt;New Form Buttons&lt;/h2&gt;
@@ -202,10 +202,10 @@
     
     <item>
       <title>Publishing Templates &amp; Template Updates</title>
-      <link>http://replace-this-with-your-hugo-site.com/2-pub-templates/</link>
+      <link>https://yourekadocs.github.io/2-pub-templates/</link>
       <pubDate>Tue, 11 Oct 2016 09:33:21 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2-pub-templates/</guid>
+      <guid>https://yourekadocs.github.io/2-pub-templates/</guid>
       <description>
 
 &lt;h2 id=&#34;publishing&#34;&gt;Publishing&lt;/h2&gt;
