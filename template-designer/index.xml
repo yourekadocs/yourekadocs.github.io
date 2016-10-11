@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Template-designers on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/template-designer/</link>
+    <description>Recent content in Template-designers on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2016 16:13:30 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/template-designer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://replace-this-with-your-hugo-site.com/template-designer/</link>
+      <pubDate>Mon, 10 Oct 2016 16:13:30 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/template-designer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2-pub-templates on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/2-pub-templates/</link>
+    <description>Recent content in 2-pub-templates on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 09:33:21 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/2-pub-templates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publishing Templates &amp; Template Updates</title>
+      <link>http://replace-this-with-your-hugo-site.com/2-pub-templates/</link>
+      <pubDate>Tue, 11 Oct 2016 09:33:21 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2-pub-templates/</guid>
+      <description>
+
+&lt;h2 id=&#34;publishing&#34;&gt;Publishing&lt;/h2&gt;
+
+&lt;h2 id=&#34;return-to-drafting&#34;&gt;Return to Drafting&lt;/h2&gt;
+
+&lt;h2 id=&#34;set-to-inactive&#34;&gt;Set to Inactive&lt;/h2&gt;
+
+&lt;h2 id=&#34;edit&#34;&gt;Edit&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

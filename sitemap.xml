@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-10-11T09:53:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/16-uninstall/</loc>
+    <lastmod>2016-10-11T09:53:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/15-lightning/</loc>
+    <lastmod>2016-10-11T09:52:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/14-reporting/</loc>
+    <lastmod>2016-10-11T09:52:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/13-messages-warnings/</loc>
+    <lastmod>2016-10-11T09:51:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</loc>
+    <lastmod>2016-10-11T09:50:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/11-importing/</loc>
+    <lastmod>2016-10-11T09:49:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/10-exporting/</loc>
+    <lastmod>2016-10-11T09:49:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/9-copying-templates/</loc>
+    <lastmod>2016-10-11T09:48:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/8-deleting-forms/</loc>
+    <lastmod>2016-10-11T09:45:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/7-archive/</loc>
+    <lastmod>2016-10-11T09:44:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/6-permission-sets/</loc>
+    <lastmod>2016-10-11T09:37:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/5-making-discoveries/</loc>
+    <lastmod>2016-10-11T09:36:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</loc>
+    <lastmod>2016-10-11T09:36:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/3-creating-a-form/</loc>
+    <lastmod>2016-10-11T09:36:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/2-pub-templates/</loc>
+    <lastmod>2016-10-11T09:33:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/template-designer/</loc>
+    <lastmod>2016-10-10T16:13:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/1-building-a-template/</loc>
+    <lastmod>2016-10-10T16:12:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/0-getting-started/</loc>
+    <lastmod>2016-10-10T16:02:49-04:00</lastmod>
+  </url>
+  
+</urlset>

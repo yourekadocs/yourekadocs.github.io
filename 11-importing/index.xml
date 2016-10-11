@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>11-importings on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/11-importing/</link>
+    <description>Recent content in 11-importings on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 09:49:57 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/11-importing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Importing Templates</title>
+      <link>http://replace-this-with-your-hugo-site.com/11-importing/</link>
+      <pubDate>Tue, 11 Oct 2016 09:49:57 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/11-importing/</guid>
+      <description>
+
+&lt;h2 id=&#34;form-template-import-tab&#34;&gt;Form Template Import Tab&lt;/h2&gt;
+
+&lt;h2 id=&#34;file-upload&#34;&gt;File Upload&lt;/h2&gt;
+
+&lt;h2 id=&#34;template-sections-questions&#34;&gt;Template Sections &amp;amp; Questions&lt;/h2&gt;
+
+&lt;h2 id=&#34;discovery-rules-discovery-rule-groups&#34;&gt;Discovery Rules &amp;amp; Discovery Rule Groups&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

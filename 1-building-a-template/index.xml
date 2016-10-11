@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1-building-a-templates on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/1-building-a-template/</link>
+    <description>Recent content in 1-building-a-templates on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2016 16:12:31 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/1-building-a-template/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building A Template</title>
+      <link>http://replace-this-with-your-hugo-site.com/1-building-a-template/</link>
+      <pubDate>Mon, 10 Oct 2016 16:12:31 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/1-building-a-template/</guid>
+      <description>
+
+&lt;h2 id=&#34;new-template&#34;&gt;New Template&lt;/h2&gt;
+
+&lt;p&gt;In order to create a new Template, click on the Form Templates tab and click the New button. When you click on the New button, it will prompt you to create a Form Template Name in the Designer page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-NT_detail-page.png&#34; alt=&#34;Form Templates Detail page&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;designer&#34;&gt;Designer&lt;/h2&gt;
+
+&lt;p&gt;The Designer page allows you to create the Template Name and add Sections and Questions. You can also add various questions types (Text, Number, Picklists, Field Links, etc.) and create dependent questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-D_designer-page.png&#34; alt=&#34;Form Templates Designer page&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;form-template-name&#34;&gt;Form Template name&lt;/h3&gt;
+
+&lt;p&gt;Create a new Template by clicking on the New button on Form Templates page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-FTN_new-btn.png&#34; alt=&#34;New Button&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking on the New button will prompt you to set a Template Name. The Template Name field will default to “New Template”.  Change the name and click the OK button.                    !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-FTN_name.png&#34; alt=&#34;Form Template name&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can edit the Template Name by clicking on the Edit icon next to Form Template name.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-FTN_edit-icon.png&#34; alt=&#34;Form Template name edit icon&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;helper-text&#34;&gt;Helper Text&lt;/h3&gt;
+
+&lt;p&gt;Helper Text on Form Template Designer page serves as a guideline to design a Template. It appears below the progress bar. It includes step by step instructions on how to build a Template. All green text in the Helper Text highlights the appropriate area on the designer. When a user clicks the X on the Helper Text, an alert modal appears to confirm if the Helper Text should be hidden permanently for that user freeing up the space for the designer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-HT_helper.png&#34; alt=&#34;Helper Text&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;
+
+&lt;p&gt;After creating a Form Template, you can start adding sections by dragging the Section button down into the workspace.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-S_section.png&#34; alt=&#34;Section&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Section dialog will prompt you for a Section Name (required field) and for the Number of Columns (1 or 2). A page break can be added by selecting the checkbox.
+Click the Save button to create the new Section.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-S_section2.png&#34; alt=&#34;Section2&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linked-sections-beta&#34;&gt;Linked Sections (BETA)&lt;/h3&gt;
+
+&lt;p&gt;Linked Sections can be used to store repeating information. For example, if you are creating an inventory form, you can create a regular Section to record the date and person doing the count, and a Linked Section to hold the specific item and number in stock.
+Linked Sections can only be created for Objects that look up to the Form Object. In the example above, you need to create an Object (for example, Item_Count__c)  with fields for the item, the count, and a lookup relationship field to the Form Object.
+Only Field Link Questions (see below) can be used in a Linked Section. All Field Link Questions in a Linked Section must refer to the same Object.
+To create a Linked Section, drag the Linked Section Button down to the workspace.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-LS_drag.png&#34; alt=&#34;Linked Section&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When creating a Linked Section, the Linked Section Object and its relationship field to the Form Object are required.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-LS_fill.png&#34; alt=&#34;Filling in a Linked Section&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that:
+* Linked Sections is not yet supported in Youreka Mobile.
+* There are also additional considerations for Form Template Import/Export, as described in the Form Import section of this document. When importing a Template with Linked Section, both the linked Object and the relationship field to the Form__c Object must exist prior to the import.&lt;/p&gt;
+
+&lt;h4 id=&#34;filling-in-linked-section&#34;&gt;Filling in Linked Section&lt;/h4&gt;
+
+&lt;p&gt;Linked Sections can be repeated several times in a Form. Initially, the Form will show a Linked Section with an “Add +” button:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/1-LS_add.png&#34; alt=&#34;Add Linked Section&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;simple-discovery-rules&#34;&gt;Simple Discovery Rules&lt;/h2&gt;
+
+&lt;h2 id=&#34;discovery-rules&#34;&gt;Discovery Rules&lt;/h2&gt;
+
+&lt;h2 id=&#34;discovery-rule-groups&#34;&gt;Discovery Rule Groups&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

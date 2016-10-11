@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12-deleting-templates on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</link>
+    <description>Recent content in 12-deleting-templates on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 09:50:44 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/12-deleting-templates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deleting Templates</title>
+      <link>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</link>
+      <pubDate>Tue, 11 Oct 2016 09:50:44 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/12-deleting-templates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

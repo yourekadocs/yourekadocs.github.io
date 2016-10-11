@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4-completing-a-forms on Youreka Docs</title>
+    <link>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</link>
+    <description>Recent content in 4-completing-a-forms on Youreka Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 09:36:26 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/4-completing-a-form/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Completing A Form</title>
+      <link>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</link>
+      <pubDate>Tue, 11 Oct 2016 09:36:26 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/4-completing-a-form/</guid>
+      <description>
+
+&lt;h2 id=&#34;detail&#34;&gt;Detail&lt;/h2&gt;
+
+&lt;h2 id=&#34;edit&#34;&gt;Edit&lt;/h2&gt;
+
+&lt;h2 id=&#34;delete&#34;&gt;Delete&lt;/h2&gt;
+
+&lt;h2 id=&#34;edit-properties&#34;&gt;Edit Properties&lt;/h2&gt;
+
+&lt;h2 id=&#34;error-handling&#34;&gt;Error Handling&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
